@@ -1,0 +1,68 @@
+{
+  "ret": true,
+  "data": {
+    "bgm": "./static/music/黄永灿-如诗般宁静.mp3",
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "./static/imgs/indexswiper/WallpaperStudio10-106834.jpg"
+    },{
+      "id": "0002",
+      "imgUrl": "./static/imgs/indexswiper/WallpaperStudio10-108400.jpg"
+    }, {
+      "id": "0003",
+      "imgUrl": "./static/imgs/indexswiper/WallpaperStudio10-43311.jpg"
+    }, {
+      "id": "0004",
+      "imgUrl": "./static/imgs/indexswiper/WallpaperStudio10-83351.jpg"
+    }, {
+      "id": "0005",
+      "imgUrl": "./static/imgs/indexswiper/WallpaperStudio10-104386.jpg"
+    }],
+    "articleList": [{
+      "id": "1",
+      "title": "如何用 es6+ 写出优雅的 js 代码",
+      "coverImage": "./static/imgs/articlecover/WallpaperStudio10-87541.jpg",
+      "summary": "其实使用新语法配合 babel 的转码，已经可以解决这一些问题了。既然如此，那就多使用新语法去探索一下怎么更好的去写代码吧。",
+      "releaseDate": "2018/12/07",
+      "views": 123,
+      "likes": 10,
+      "comments": 5
+    },{
+      "id": "2",
+      "title": "为什么越来越少的人用jQuery",
+      "coverImage": "./static/imgs/articlecover/WallpaperStudio10-10853.jpg",
+      "summary": "最早期的开发，大多都使用jQuery，它给我们带来了很多的便利：快速选取元素，方便操作DOM元素的API，各个浏览器之间完美的兼容性，链式操作，动画、ajax等等都是jQuery为前端开发人员来带的好处。为什么现在越来越少人用了呢？",
+      "releaseDate": "2018/12/07",
+      "views": 123,
+      "likes": 10,
+      "comments": 5
+    },{
+      "id": "3",
+      "title": "分布式事务：基于可靠消息服务",
+      "coverImage": "./static/imgs/articlecover/WallpaperStudio10-10674.jpg",
+      "summary": "微服务倡导将复杂的单体应用拆分为若干个功能简单、松耦合的服务，而于此同时就会引入多个服务之间的分布式事务的问题。",
+      "releaseDate": "2018/12/07",
+      "views": 123,
+      "likes": 10,
+      "comments": 5
+    },{
+      "id": "4",
+      "title": "并发优化 - 降低锁颗粒",
+      "coverImage": "./static/imgs/articlecover/WallpaperStudio10-10831.jpg",
+      "summary": "java并发模型是基于内存共享，多线程共享变量一般就会涉及到加锁，这里介绍几种降低锁竞争的方式，最终效果都是降低锁的颗粒或者降低锁的竞争次数。",
+      "releaseDate": "2018/12/07",
+      "views": 123,
+      "likes": 10,
+      "comments": 5
+    },{
+      "id": "5",
+      "title": "51信用卡 Android 架构演进实践",
+      "coverImage": "./static/imgs/articlecover/WallpaperStudio10-108475.jpg",
+      "summary": "随着业务的快速扩张，原本小作坊式的单个工程的开发模式越来与不能满足实际需求。早在两年多以前，51信用卡管家就向下沉淀出了单独的公用基础库，一些通用的功能组件和个别独立的业务被拆分成 SDK，形成了一套中型项目、多人并行的开发模式，也为未来组件化拆分做准备。\n\n作者：w4lle\n链接：https://juejin.im/post/5bea44cd6fb9a049ba411bac\n来源：掘金\n著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。",
+      "releaseDate": "2018/12/07",
+      "views": 123,
+      "likes": 10,
+      "comments": 5
+    }]
+  }
+}
